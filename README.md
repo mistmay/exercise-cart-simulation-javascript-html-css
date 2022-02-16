@@ -1,0 +1,1 @@
+Simple exercise in HTML, CSS and Javascript just to try to create a simple cart system.
